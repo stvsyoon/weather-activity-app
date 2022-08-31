@@ -1,0 +1,15 @@
+0) Figure out what language/framework and API to use - August 30, 2022
+    - React (Front-end)
+    - Back-end TBD
+
+1) Create basic UI
+
+2) Connect to API and add to UI
+
+3) Add features and cookies
+      - autofill
+      - request location
+      - animations
+      make it pretty
+
+4) tbd
